@@ -1,0 +1,5 @@
+The datasets have 8 classes: “aadhar_card_full”, “aadhar_card_bottom”, “drivers_license”, “MSRIT_ID_card”, “pan_card”, “passport”, “old_voter_ID_card” and “new_voter_ID_card”
+The training dataset has 11 images per class and the test dataset has 5 images per class. 
+There are no repeating images in the datasets. 
+
+All this data was collected from Google Images or from people who allowed us to use their identity documents for our project.
