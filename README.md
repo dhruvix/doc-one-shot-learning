@@ -9,7 +9,8 @@ Classifying images of documents is an important business task and doing it manua
 <img src="/images/Siamese networks.jpg">
 
 ### Sample output
-We take two images, belonging to a known class (passport) and an unknown class and give them to our system and plotted the output vectors we obtained. The vectors on the left are the outputs for the known class image and the vectors on the right are the outputs for the unknown class image.
+We took two images, belonging to a known class (passport) and an unknown class, gave them to our system and plotted the output vectors we obtained. The 4 vectors on the left are the outputs for the known class's  image and the 4 vectors on the right are the outputs for the unknown class's image.
 
-<img src="/images/download.png">
+<img align="center" src="/images/download.png">
+
 <img src="/images/ku-avg.JPG">
